@@ -6,6 +6,6 @@
 * **Lighthouse Role**: [https://github.com/bukvalni/lighthouse](https://github.com/bukvalni/lighthouse) 
 
 ## Проверка
-![screen](img/check.png)
-![screen](img/database.png)
-![screen](img/systemctl.png)
+![screen](img/check.jpg)
+![screen](img/database.jpg)
+![screen](img/systemctl.jpg)
